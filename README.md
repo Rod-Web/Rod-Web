@@ -47,7 +47,7 @@
 ---
 
 ## 🐍 Snake Animation
-![Snake animation](https://github.com/rod-Web/Rod-Web/blob/output/snake.svg)
+![Snake animation](https://github.com/Rod-Web/Rod-Web/blob/output/snake.svg)
 
 ---
 
