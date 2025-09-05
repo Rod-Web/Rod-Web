@@ -40,9 +40,7 @@
 ---
 
 ## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rod-Web&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-</p>
+![Snake animation](https://github.com/Rod-Web/Rod-Web/blob/output/snake.svg)
 
 ---
 
