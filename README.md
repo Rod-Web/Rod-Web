@@ -5,7 +5,7 @@
 
 💻 Estudante de **Informática para Internet** na ETEC Cidade Tiradentes  
 🚀 Explorando o mundo do **Desenvolvimento Web (Frontend + Backend)**  
-📚 Estudando **HTML, CSS, JavaScript, Node.js e MySQL**  
+📚 Estudando **HTML, CSS, JavaScript, React, Node.js, MySQL e MongoDB**  
 🌌 Objetivo: me tornar **Full Stack Developer** e criar projetos que inspirem  
 
 ---
