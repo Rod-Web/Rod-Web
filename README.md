@@ -53,9 +53,9 @@
 
 ## 🌐 Contato
 <p align="center">
-  <a href="rodrigovalentim2008@email.com"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="htpps://linkedin.com/in/rodrigo-valentim-de-araujo"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://seuportifolio.com"><img src="https://img.shields.io/badge/Portfólio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:rodrigovalentim2008@email.com"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="htpps://www.linkedin.com/in/rodrigo-valentim-de-araujo"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfólio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
