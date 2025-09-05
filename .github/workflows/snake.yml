@@ -1,0 +1,28 @@
+name: Snake Animation
+
+on:
+  schedule:
+    - cron: "0 23 * * *"  # roda todo dia às 23h
+  workflow_dispatch:      # permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Gerar Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Rod-Web
+          output: snake.svg  # arquivo no root do repositório
+
+      - name: Commit e push
+        run: |
+          git config --global user.name "Rod-Web"
+          git config --global user.email "seuemail@email.com"
+          git add snake.svg
+          git commit -m "Atualizando Snake Animation"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
