@@ -46,13 +46,6 @@
 
 ---
 
-## 🐍 Snake Animation
-![Snake animation](https://github.com/Rod-Web/Rod-Web/blob/main/snake.svg)
-
-
-
----
-
 ## ✨ Palavra do Dia
 > *“Na escuridão do código, a lógica é a luz que guia.”*  
 
