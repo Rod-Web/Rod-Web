@@ -9,11 +9,23 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
 
       - name: Gerar Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: Rod-Web
-          outputs: snake.svg       # gera o arquivo
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: ./github-contribution-grid-snake.svg
+
+      - name: Commit na branch output
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin
+          git checkout -B output
+          mv github-contribution-grid-snake.svg github-contribution-grid-snake.svg
+          git add github-contribution-grid-snake.svg
+          git commit -m "Atualizando snake animation 🐍"
+          git push origin output --force
