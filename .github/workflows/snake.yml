@@ -15,15 +15,5 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Rod-Web
-          outputs: snake.svg      # <-- corrigido aqui
+          outputs: snake.svg       # gera o arquivo
           github_token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit e push
-        run: |
-          git config --global user.name "Rod-Web"
-          git config --global user.email "seuemail@email.com"
-          git add snake.svg
-          git commit -m "Atualizando Snake Animation" || echo "Nada para commitar"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
