@@ -24,7 +24,7 @@
 ---
 
 ## 🌌 Projetos em Destaque
-- 🧪 [**Blog sobre Produtos Químicos Domésticos**](https://github.com/EversonBacelli/front_qperigo.git) — Informações sobre segurança e manuseio  
+- 🧪 [**Blog sobre Produtos Químicos Domésticos**](https://github.com/Rod-Web/Frontend_QPerigo.git) — Informações sobre segurança e manuseio  
 <!-- - 🌐 [**Portfólio de Sites**](link-do-repositorio) — Mostrando meus projetos pessoais  --> 
 - 🔮 [**Mais projetos**](link-do-repositorio) em andamento...  
 
