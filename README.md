@@ -1,7 +1,7 @@
 <!-- Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rodrigo%20Valentim&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
-# ✨ Olá, eu sou o Rodrigo!  
+# Boa, eu sou o Rodrigo!  
 
 💻 Estudante de **Informática para Internet** na ETEC Cidade Tiradentes  
 🚀 Explorando o mundo do **Desenvolvimento Web (Frontend + Backend)**  
